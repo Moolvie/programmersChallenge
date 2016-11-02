@@ -13,11 +13,12 @@ Output: The format of output should be a statement to print the difference betwe
         
         The Difference is xxx.
         
-Limitations: Time:            20 minutes
+Limitations: 
+                        Time:           20 minutes
 
-             Variables:        6 variables
+                   Variables:           6 variables
              
-             Program length: 640 characters
+              Program length:           640 characters
              
  From "Programmer's Challenge" by Steven Chen
  
