@@ -1,0 +1,1 @@
+tripleRemainder.o: ../tripleRemainder.cpp
